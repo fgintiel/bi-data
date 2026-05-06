@@ -1,2 +1,2 @@
 # bi-data
-plantamiento del data center de baja escala y la migacion para gran escala
+plantamiento de herramientas a baja escala en comunicacion con  para la posterior migracion a gran escala dentro de los servidores institucionales 
